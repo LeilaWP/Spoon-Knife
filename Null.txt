@@ -1,1 +1,1 @@
-A ignorer !!
+Ce fichier est à ignorer !
